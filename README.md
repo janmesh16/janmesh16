@@ -69,7 +69,8 @@ Examples: Number Guessing Game, Calculator, Password Generator, To-Do App, Unit 
 
 ### 📫 Connect With Me
 🔗 **GitHub:** https://github.com/janmesh16 
-🔗 **LinkedIn:** * www.linkedin.com/in/janmesh-rohida-4031693a0
+
+🔗 **LinkedIn:** www.linkedin.com/in/janmesh-rohida-4031693a0
 ---
 
 ### ⭐ Motto
